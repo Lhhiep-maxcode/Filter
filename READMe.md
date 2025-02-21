@@ -12,8 +12,8 @@ An AI-powered application that overlays virtual masks onto users' faces in real 
 </p>
 
 <p align="center"> 
-    <img src="assets/squidgame.gif">
-    <img src="assets/anonymous.gif">
+    <img src="assets/squidgame.gif" width="400" height="318">
+    <img src="assets/anonymous.gif" width="400" height="318">
 </p>
 
 
